@@ -1,4 +1,4 @@
-# CSE3000-Contemporary-Issues-in-Computer-Science-and-Engineering
+# CSE3000 Contemporary Issues in Computer Science and Engineering
 
 Week 04: Privacy Government and Surveillance (One) (week of 9/30)  
 Carceral Capitalism by Jackie Wang (Ch. 4).pdf  
